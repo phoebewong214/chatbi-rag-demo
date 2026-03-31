@@ -2,7 +2,7 @@
 
 > Ask your business data anything in plain English. Get SQL. Get charts. No code required.
 
-**Live Demo →** *(deploy to Streamlit Cloud and paste your URL here)*
+**Live Demo →** *https://chatbi-demo.streamlit.app*
 
 ---
 
