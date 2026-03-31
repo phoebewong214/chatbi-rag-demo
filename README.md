@@ -2,7 +2,7 @@
 
 > Ask your business data anything in plain English. Get SQL. Get charts. No code required.
 
-**Live Demo →** *https://chatbi-demo.streamlit.app*
+**Live Demo →** https://chatbi-demo.streamlit.app
 
 ---
 
@@ -60,7 +60,7 @@ Three mock enterprise tables (24 months of synthetic data):
 
 ```bash
 # 1. Clone
-git clone https://github.com/phoebewong214/chatbi-rag-demo.git
+git clone https://github.com/phoebewong214/chatbi-rag-demo.git 
 cd chatbi-rag-demo
 
 # 2. Install dependencies
@@ -94,7 +94,7 @@ Enter your API key in the sidebar — no `.env` file needed.
 ![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-free_tier-4285F4?style=flat&logo=google&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-embedded-003B57?style=flat&logo=sqlite&logoColor=white)
-
+![chatbi-rag-demo](https://github.com/phoebewong214/chatbi-rag-demo)
 ---
 
 ## Author
